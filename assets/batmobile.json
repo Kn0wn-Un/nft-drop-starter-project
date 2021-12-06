@@ -1,0 +1,20 @@
+{
+	"name": "Batmobile",
+	"symbol": "",
+	"image": "batmobile.png",
+	"properties": {
+		"files": [
+			{
+				"uri": "batmobile.png",
+				"type": "image/png"
+			}
+		],
+		"creators": [
+			{
+				"address": "8cCizZcEBwY48ArRSCo9Lb4DDSLeFesYQhEwuCUpyVeH",
+				"share": 100
+			}
+		]
+	},
+	"collection": { "name": "Aneesh X NFT", "family": "Aneesh" }
+}

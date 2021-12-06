@@ -1,0 +1,20 @@
+{
+	"name": "Batman",
+	"symbol": "",
+	"image": "batman.png",
+	"properties": {
+		"files": [
+			{
+				"uri": "batman.png",
+				"type": "image/png"
+			}
+		],
+		"creators": [
+			{
+				"address": "8cCizZcEBwY48ArRSCo9Lb4DDSLeFesYQhEwuCUpyVeH",
+				"share": 100
+			}
+		]
+	},
+	"collection": { "name": "Aneesh X NFT", "family": "Aneesh" }
+}
