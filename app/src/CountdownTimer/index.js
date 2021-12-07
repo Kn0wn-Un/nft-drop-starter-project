@@ -1,4 +1,3 @@
-import { MAX_NAME_LENGTH } from '@metaplex/js/lib/programs/metadata';
 import React, { useEffect, useState } from 'react';
 import './CountdownTimer.css';
 
